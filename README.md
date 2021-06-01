@@ -1,7 +1,7 @@
 # Football ( Soccer ) Visualisations #
 Football ( Soccer ) plots created using ggplot2
 
-## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team ##
+## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020]##
 
 Manchester City, Liverpool leading the way for most % of pressures in the Attacking third. Newcastle United and Crystal Palace the complete opposite.
 
@@ -9,9 +9,15 @@ Manchester City, Liverpool leading the way for most % of pressures in the Attack
 
 ## How does the Match State affect Ole Gunnar Solskjaer's substitutions? [Feb 9th, 2021] ##
 
-Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I tried to analyse how much has he changed in that aspect in 2020/21. Was that any truths to some of the myths in that topic. You can read the full analysis [here](https://twitter.com/VenkyReddevil/status/1359131984996405254?s=20)
+Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I tried to analyse how much has he changed in that aspect in 2020/21. Was that any truths to some of the myths in that topic. You can read the full analysis [here](https://twitter.com/VenkyReddevil/status/1359131984996405254?s=20).
 
 ![united_subs_match_state_2021](united/united_subs_match_state.png)
+
+## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
+
+The top two spots in the EFL Championship are pretty much confirmed. However, the race for the playoff spots is still and one team out of the five is going to be left behind. Barnsely's rise to where they are now has been incredible.
+
+![championship_playoff_race_2021](championship/championship_playoff_race_2021.png)
 
 ## Chelsea Players: % of minutes under Tuchel vs Lampard [April 19th, 2021] ##
 
