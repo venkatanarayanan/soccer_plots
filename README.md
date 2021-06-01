@@ -3,7 +3,7 @@ Football ( Soccer ) plots created using ggplot2
 
 ## How does the Match State affect Ole Gunnar Solskjaer's substitutions? [Feb 9th, 2021] ##
 
-Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I tried to analyse how much has he changed in that aspect in 2020/21. Was that any truths to some of the myths in that topic. You can read the full analysis [here]("https://twitter.com/VenkyReddevil/status/1359131984996405254?s=20")
+Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I tried to analyse how much has he changed in that aspect in 2020/21. Was that any truths to some of the myths in that topic. You can read the full analysis [here](https://twitter.com/VenkyReddevil/status/1359131984996405254?s=20)
 
 ![united_subs_match_state_2021](united/united_subs_match_state.png)
 
