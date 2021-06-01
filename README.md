@@ -7,6 +7,13 @@ Manchester City, Liverpool leading the way for most % of pressures in the Attack
 
 ![pl_squad_pressures_1920](general/pl_squad_pressures_1920.png)
 
+## Manchester United 19/20 - Goals Scored & Conceded during different phases of the game [August 19th, 2020] ##
+
+Manchester United in the 19/20 season have conceded late goals drawing games, mostly, as a result. Sometimes failed to score more than 1. Sometimes scored to
+comeback. Here is how they farred during different phases of the game.
+
+![united_goals_phase_1920](united/united_goals_phase_1920.png)
+
 ## How does the Match State affect Ole Gunnar Solskjaer's substitutions? [Feb 9th, 2021] ##
 
 Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I tried to analyse how much has he changed in that aspect in 2020/21. Was that any truths to some of the myths in that topic. You can read the full analysis [here](https://twitter.com/VenkyReddevil/status/1359131984996405254?s=20).
