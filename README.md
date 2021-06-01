@@ -1,7 +1,7 @@
 # Football ( Soccer ) Visualisations #
 Football ( Soccer ) plots created using ggplot2
 
-## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020]##
+## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020] ##
 
 Manchester City, Liverpool leading the way for most % of pressures in the Attacking third. Newcastle United and Crystal Palace the complete opposite.
 
