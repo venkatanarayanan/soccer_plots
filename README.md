@@ -20,6 +20,13 @@ Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I 
 
 ![united_subs_match_state_2021](united/united_subs_match_state.png)
 
+## Which Manchester United players are consistent in front of goal? [Feb 12th, 2021] ##
+
+Manchester United have largely been dependent on Bruno Fernandes for goals but how do the other players fare. Which players score regularly and which players
+do not?
+
+![united_players_goals_week_2021](united/united_players_goals_week)
+
 ## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
 
 The top two spots in the EFL Championship are pretty much confirmed. However, the race for the playoff spots is still and one team out of the five is going to be left behind. Barnsely's rise to where they are now has been incredible.
