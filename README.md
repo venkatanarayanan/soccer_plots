@@ -25,7 +25,7 @@ Ole Gunnar Solskjaer was known to make some delayed substitutions in 2019/20. I 
 Manchester United have largely been dependent on Bruno Fernandes for goals but how do the other players fare. Which players score regularly and which players
 do not?
 
-![united_players_goals_week_2021](united/united_players_goals_week)
+![united_players_goals_week_2021](united/united_players_goals_week.png)
 
 ## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
 
