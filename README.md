@@ -62,3 +62,9 @@ Chelsea had change of managers halfway through the season. This Visual gives an 
 Harry Kane looks set to have another excellent individual season with the Tottenham captain on track to win another golden boot. Salah, as well, has silently having another excellent season and is closest to Salah. Bruno Fernandes comes third in his first full season for Manchester United. Patrick Bamford too is involved in the race proving his doubters from the start of the season wrong. 
 
 ![pl_golden_boot](general/golden_boot_pl.png)
+
+## How did the teams from the EFL Championship split the mintues across different age groups? [May 17th, 2021] ##
+
+The EFL Championship is known for producing some amazing young talents. This did not change in the 2020/21 season. On a sidenote, the things that Barnsley have acheieved with such a young squad is another reason why they deserved all those praise.
+
+![championship_minutes_age_group_2021](championship/championship_age_group_minutes_2021.png)
