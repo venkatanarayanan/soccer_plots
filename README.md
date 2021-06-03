@@ -7,6 +7,12 @@ The Top four race in the Premier League is so close. It is almost as if none of 
 
 ![pl_top4_race_1920](general/top4_race_1920.png)
 
+## Premier League Teams 2019/20 - Squad Age Profile [June 29th, 2020] ##
+
+There have been some interesting young players to watch out for in the season so far. Some teams like Crystal Palace have struck with experienced players through out the season. However, Teams like Manchester United & Manchester City have had a mix of youth and experience. Manchester United's squad is in fact the youngest in the league in terms of average age
+
+![pl_teams_age_profile_2019](general/pl_teams_age_profile.png)
+
 ## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020] ##
 
 Manchester City, Liverpool leading the way for most % of pressures in the Attacking third. Newcastle United and Crystal Palace the complete opposite.
