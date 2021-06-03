@@ -45,6 +45,12 @@ The top two spots in the EFL Championship are pretty much confirmed. However, th
 
 ![championship_playoff_race_2021](championship/championship_playoff_race_2021.png)
 
+## The Premier League Form Table 2020/21 [March 15th, 2021] ##
+
+Not a lot of teams picked for best form this season. There have been a lot of upsets including Aston Villa beating Liverpool 7-2, Manchester United losing to Sheffiled United, Leicester City beating Manchester City 5-2. However, if there is one team that can be picked for form , it is Manchester City, as shown in the visual below
+
+![pl_form_table_2021](general/pl_form_table_2021.png)
+
 ## Chelsea Players: % of minutes under Tuchel vs Lampard [April 19th, 2021] ##
 
 Chelsea had change of managers halfway through the season. This Visual gives an idea of the players preferred by the each manager. For example, Tammy Abraham preffered by Frank Lampard but was completely sidelined by the German manager.
