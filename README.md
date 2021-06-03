@@ -39,17 +39,23 @@ do not?
 
 ![united_players_goals_week_2021](united/united_players_goals_week.png)
 
-## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
-
-The top two spots in the EFL Championship are pretty much confirmed. However, the race for the playoff spots is still and one team out of the five is going to be left behind. Barnsely's rise to where they are now has been incredible.
-
-![championship_playoff_race_2021](championship/championship_playoff_race_2021.png)
-
 ## The Premier League Form Table 2020/21 [March 15th, 2021] ##
 
 Not a lot of teams picked for best form this season. There have been a lot of upsets including Aston Villa beating Liverpool 7-2, Manchester United losing to Sheffiled United, Leicester City beating Manchester City 5-2. However, if there is one team that can be picked for form , it is Manchester City, as shown in the visual below
 
 ![pl_form_table_2021](general/pl_form_table_2021.png)
+
+## Manchester United PL 2020/21: Shots For and Against [Feb 11th, 2021] ##
+
+This is called a waffle plot. It shows the number of shots for and against Manchester United along with the different outcomes as indicated by the different colors
+
+![united_shots_for_against_2021](united/united_shots_for_against_2021.png)
+
+## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
+
+The top two spots in the EFL Championship are pretty much confirmed. However, the race for the playoff spots is still and one team out of the five is going to be left behind. Barnsely's rise to where they are now has been incredible.
+
+![championship_playoff_race_2021](championship/championship_playoff_race_2021.png)
 
 ## Chelsea Players: % of minutes under Tuchel vs Lampard [April 19th, 2021] ##
 
