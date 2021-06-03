@@ -5,7 +5,7 @@ Football ( Soccer ) plots created using ggplot2
 
 The Top four race in the Premier League is so close. It is almost as if none of them want to finish in the top 4. Whenever one team has won, the other teams involved in the race have won. Whenever one team lost, the other team has lost, failing to take advantage of the situa
 
-![pl_top4_race_1920](general/top_race_1920.png)
+![pl_top4_race_1920](general/top4_race_1920.png)
 
 ## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020] ##
 
