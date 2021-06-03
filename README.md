@@ -1,6 +1,12 @@
 # Football ( Soccer ) Visualisations #
 Football ( Soccer ) plots created using ggplot2
 
+## Premier League 2019/20 - 'Top 4' Race [June 24th, 2020] ##
+
+The Top four race in the Premier League is so close. It is almost as if none of them want to finish in the top 4. Whenever one team has won, the other teams involved in the race have won. Whenever one team lost, the other team has lost, failing to take advantage of the situa
+
+![pl_top4_race_1920](general/top4_race_1920.png)
+
 ## Premier League 2019/20 - % of pressures applied in different thirds of the pitch by each team [July 2nd, 2020] ##
 
 Manchester City, Liverpool leading the way for most % of pressures in the Attacking third. Newcastle United and Crystal Palace the complete opposite.
