@@ -67,4 +67,4 @@ Harry Kane looks set to have another excellent individual season with the Totten
 
 The EFL Championship is known for producing some amazing young talents. This did not change in the 2020/21 season. On a sidenote, the things that Barnsley have acheieved with such a young squad is another reason why they deserved all those praise.
 
-![championship_minutes_age_group_2021](championship/championship_age_group_minutes_2021.png)
+![championship_minutes_age_group_2021](championship/championship_age_group_minutes.png)
