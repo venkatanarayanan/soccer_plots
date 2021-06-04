@@ -51,6 +51,12 @@ This is called a waffle plot. It shows the number of shots for and against Manch
 
 ![united_shots_for_against_2021](united/united_shots_for_against_2021.png)
 
+## Premier League 2020/21 - % of Home and Away wins [March 17th, 2021] ##
+
+The Premier League 2020/21 season has been very weird so far with Liverpool deciding to start their losing streak at Anfield, Manchester United struggling at home. Not just that a lot of teams including Everton, Wolves, Leciester City have struggled to home. Here is a visual showing the % of each team's wins at home and away.
+
+![pl_home_away_wins_2021](general/home_away_wins_2021.png)
+
 ## The EFL Championship Playoff Race 2020/21 [April 13th, 2021] ##
 
 The top two spots in the EFL Championship are pretty much confirmed. However, the race for the playoff spots is still and one team out of the five is going to be left behind. Barnsely's rise to where they are now has been incredible.
