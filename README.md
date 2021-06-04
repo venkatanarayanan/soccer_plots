@@ -80,3 +80,10 @@ Harry Kane looks set to have another excellent individual season with the Totten
 The EFL Championship is known for producing some amazing young talents. This did not change in the 2020/21 season. On a sidenote, the things that Barnsley have acheieved with such a young squad is another reason why they deserved all those praise.
 
 ![championship_minutes_age_group_2021](championship/championship_age_group_minutes.png)
+
+## EFL Championship 2020/21 - % of Home and Away wins [March 19th, 2021] ##
+
+Looking at how the EFL Championship teams fared home and away, I created this visual inspired from [Charlie Gallagher](Premier League 2020/21 - % of Home and Away wins [March 17th, 2021])'s #tidytuesday [viz](https://github.com/charlie-gallagher/tidy-tuesday/tree/master/kenya).
+
+![championship_home_away_wins_2021](championship/championship_home_away_wins_2021.png)
+
