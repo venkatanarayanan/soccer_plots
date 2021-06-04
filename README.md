@@ -83,7 +83,7 @@ The EFL Championship is known for producing some amazing young talents. This did
 
 ## EFL Championship 2020/21 - % of Home and Away wins [March 19th, 2021] ##
 
-Looking at how the EFL Championship teams fared home and away, I created this visual inspired from [Charlie Gallagher](Premier League 2020/21 - % of Home and Away wins [March 17th, 2021])'s #tidytuesday [viz](https://github.com/charlie-gallagher/tidy-tuesday/tree/master/kenya).
+Looking at how the EFL Championship teams fared home and away, I created this visual inspired from [Charlie Gallagher](https://github.com/charlie-gallagher)'s #tidytuesday [viz](https://github.com/charlie-gallagher/tidy-tuesday/tree/master/kenya).
 
 ![championship_home_away_wins_2021](championship/championship_home_away_wins_2021.png)
 
