@@ -87,3 +87,8 @@ Looking at how the EFL Championship teams fared home and away, I created this vi
 
 ![championship_home_away_wins_2021](championship/championship_home_away_wins_2021.png)
 
+## Premier League 2020/21 - % of Goals by Half [June 7th, 2021] ##
+
+The Premier League 2020/21 season provided us with the chance to witness some memorable comebacks, late equalisers and even late victories. Manchester United's 2020/21 season will be best known for comebacks. That goes on to show, they scored a lot of goals in the second half. Not only them, but the season in general has seen a lot of goals in the second half. 
+
+![pl_goals_by_half_2021](general/pl_goals_by_half_2021.png)
