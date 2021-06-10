@@ -92,3 +92,7 @@ Looking at how the EFL Championship teams fared home and away, I created this vi
 The Premier League 2020/21 season provided us with the chance to witness some memorable comebacks, late equalisers and even late victories. Manchester United's 2020/21 season will be best known for comebacks. That goes on to show, they scored a lot of goals in the second half. Not only them, but the season in general has seen a lot of goals in the second half. 
 
 ![pl_goals_by_half_2021](general/pl_goals_by_half_2021.png)
+
+## Manchester United Transfers ( 2013 - Present ) - % share of overall minutes played
+
+![united_transfers_minutes](united/united_transfers_minutes.png)
