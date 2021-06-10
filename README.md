@@ -93,6 +93,6 @@ The Premier League 2020/21 season provided us with the chance to witness some me
 
 ![pl_goals_by_half_2021](general/pl_goals_by_half_2021.png)
 
-## Manchester United Transfers ( 2013 - Present ) - % share of overall minutes played
+## Manchester United Transfers ( 2013 - Present ) - % share of overall minutes played [June 9th, 2021] ##
 
 ![united_transfers_minutes](united/united_transfers_minutes.png)
