@@ -95,11 +95,11 @@ The Premier League 2020/21 season provided us with the chance to witness some me
 
 ## Manchester United Transfers ( 2013 - Present ) - % share of overall minutes played [June 9th, 2021] ##
 
-
+In 13/14, 18/19, 20/21 - none of the new signings played more than 50% of the overall minutes. In 16/17 and 19/20, most of the signings were pretty much for the first team and played regularly. Maguire with the highest % of minutes in the first season
 
 ![united_transfers_minutes](united/united_transfers_minutes.png)
 
-## Premier League 2020/21 - Teams' Distribution of Goals across minutes ##
+## Premier League 2020/21 - Teams' Distribution of Goals across minutes [June 11th, 2021] ##
 
 Manchester United, Newcastle United, Fulham, Chelsea, Leicester City among the teams that scored a large volume of their goals late in the second half. Southampton, Burnley, Everton, Manchester City all tend to start well and score early regularly. Aston Villa, Brighton & Hove Albion, Crystal Palace and Manchester City as well tend score equally in both the halves. Liverpool and Arsenal often score just before and after the HT. 
 
