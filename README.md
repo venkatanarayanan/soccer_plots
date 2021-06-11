@@ -95,4 +95,12 @@ The Premier League 2020/21 season provided us with the chance to witness some me
 
 ## Manchester United Transfers ( 2013 - Present ) - % share of overall minutes played [June 9th, 2021] ##
 
+
+
 ![united_transfers_minutes](united/united_transfers_minutes.png)
+
+## Premier League 2020/21 - Teams' Distribution of Goals across minutes ##
+
+Manchester United, Newcastle United, Fulham, Chelsea, Leicester City among the teams that scored a large volume of their goals late in the second half. Southampton, Burnley, Everton, Manchester City all tend to start well and score early regularly. Aston Villa, Brighton & Hove Albion, Crystal Palace and Manchester City as well tend score equally in both the halves. Liverpool and Arsenal often score just before and after the HT. 
+
+![team_goal_distribution_2021](general/team_goal_distribution_2021.png)
