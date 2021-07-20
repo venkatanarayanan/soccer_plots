@@ -104,3 +104,9 @@ In 13/14, 18/19, 20/21 - none of the new signings played more than 50% of the ov
 Manchester United, Newcastle United, Fulham, Chelsea, Leicester City among the teams that scored a large volume of their goals late in the second half. Southampton, Burnley, Everton, Manchester City all tend to start well and score early regularly. Aston Villa, Brighton & Hove Albion, Crystal Palace and Manchester City as well tend score equally in both the halves. Liverpool and Arsenal often score just before and after the HT. 
 
 ![team_goal_distribution_2021](general/team_goal_distribution_2021.png)
+
+## Premier League 2020/21 - Which goalkeepers leave the line frequently to claim or punch the ball? [July 5th, 2021] ##
+
+Modern goalkeepers are expected to leave the line frequently, take command and collect/punch incoming crosses. Some keepers like Hugo Lloris, Ederson, Alisson are known to take control of their box. The below visualisation shows which keepers are good at claming the crosses or punching. 
+
+![gk_claims_punches_2021](general/gk_claims_punches.png)
