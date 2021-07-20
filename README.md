@@ -110,3 +110,11 @@ Manchester United, Newcastle United, Fulham, Chelsea, Leicester City among the t
 Modern goalkeepers are expected to leave the line frequently, take command and collect/punch incoming crosses. Some keepers like Hugo Lloris, Ederson, Alisson are known to take control of their box. The below visualisation shows which keepers are good at claming the crosses or punching. 
 
 ![gk_claims_punches_2021](general/gk_claims_punches.png)
+
+## Premier League 2020/21 - Comparing David de Gea's and Dean Henderson's distribution [July 6th, 2021] ##
+
+Manchester United's goalkeeper department is only getting stronger. They already have two 'No.1s', now they most likely have another 'No.1' after signing Tom Heaton on a free. But it is fair to say that, for sure, Heaton won't be the No.1, atleast to start with. So, forget him, for now and let's see how David de Gea and Dean Henderson differ in terms of ball distribution.
+
+![gk_united_distribution_2021](united/gk_united_distribution.png)
+
+
